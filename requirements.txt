@@ -1,0 +1,25 @@
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.21.0
+requests>=2.28.0
+python-dateutil>=2.8.0
+
+# Data processing
+openpyxl>=3.0.0
+xlsxwriter>=3.0.0
+
+# Logging and configuration
+pyyaml>=6.0
+python-dotenv>=0.19.0
+
+# Database (if needed)
+sqlalchemy>=1.4.0
+psycopg2-binary>=2.9.0
+
+# API and web
+fastapi>=0.95.0
+uvicorn>=0.20.0
+
+# Utilities
+click>=8.0.0
+tqdm>=4.64.0
