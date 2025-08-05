@@ -1,2 +1,1 @@
-# my-new-proj
-My new project repository
+# My New Project
